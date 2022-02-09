@@ -1,11 +1,24 @@
+*{
+    font-family: serif;
+}
 img{
     width: 100%;
 }
 .card-img-overlay{
     background: black;
     color: white;
-    opacity: 0.2;
+    opacity: 0.4;
 }
 .col-md-4 img{
     width: 200%;
+}
+.icons{
+    margin-left: 10px;
+    width: 30px;
+}
+a{
+    text-decoration: none;
+}
+.nav li a{
+    color: white;
 }
